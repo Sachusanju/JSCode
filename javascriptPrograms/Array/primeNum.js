@@ -1,4 +1,5 @@
 var num = [11,13,9,21,35,37]
+
 function prime(arr) {
     for (const number of arr) {
         let isPrime = true
